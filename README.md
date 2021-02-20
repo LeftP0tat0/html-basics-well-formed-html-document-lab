@@ -19,7 +19,7 @@ that we need to build a solid structure for the content we want to put in our
 page, and each tag has a function in building that structure. If we forget a
 tag, our structure will weaken and the browser might not be able to display our
 page at all. So it's important we put every piece in its place at the beginning.
-
+ 
 To get started, open `index.html` in your text editor.
 
 ## Add an Appropriate `DOCTYPE` Tag to the Top of an HTML File
